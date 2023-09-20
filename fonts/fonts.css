@@ -1,0 +1,15 @@
+@font-face{
+    font-family: GOLSansDisplay;
+    font-style: normal;
+    src:url(https://github.com/camomilla013/fontes/blob/main/fonts/GOLSansDisplay-Regular-web.ttf) format('ttf'); src:url(https://github.com/camomilla013/fontes/blob/main/fonts/GOLSansDisplay-Regular.woff2) format('woff2');
+    src:url(https://github.com/camomilla013/fontes/blob/main/fonts/GOLSansDisplay-Regular.eot) format('eot');
+    font-weight: normal;
+    }
+
+@font-face{
+    font-family: GOLSansDisplay;
+    font-style: normal;
+    src:url(https://github.com/camomilla013/fontes/blob/main/fonts/GOLSansDisplay-Bold-web.ttf) format('ttf'); src:url(https://github.com/camomilla013/fontes/blob/main/fonts/GOLSansDisplay-Bold.woff2) format('woff2');
+    src:url(https://github.com/camomilla013/fontes/blob/main/fonts/GOLSansDisplay-Bold.eot) format('eot');
+    font-weight: bold;
+    }
